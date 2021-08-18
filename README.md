@@ -1,4 +1,4 @@
-Thank you for your interest in ASG.
+Thank you for your interest in Igotcha.
 ===========================================
 
 This is a small problem that we would like you to solve so that we can get an idea of your coding stye.  To see if it fits into our team techniques.
